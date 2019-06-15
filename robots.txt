@@ -1,0 +1,3 @@
+User-Agent:*
+Disallow:
+Sitemap: https://dimeiza.github.io/sitemap.xml
